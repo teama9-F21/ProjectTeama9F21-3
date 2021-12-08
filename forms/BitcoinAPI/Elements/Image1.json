@@ -10,7 +10,7 @@
   "class": "",
   "display": "",
   "expanded_pmp": null,
-  "height": 96,
+  "height": 119,
   "hidden": "",
   "id": "Image1",
   "left": 55,
@@ -30,8 +30,8 @@
   "ontouchstart": "",
   "right": "auto",
   "script": "",
-  "src": "image/Btcimage.jpg",
+  "src": "image/btc.jpg",
   "style": "",
-  "top": 76,
-  "width": 196
+  "top": 51,
+  "width": 215
 }
