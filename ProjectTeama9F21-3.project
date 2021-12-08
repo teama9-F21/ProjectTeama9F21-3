@@ -23,24 +23,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "loginUser",
-            "loginUser.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "homePage",
-            "homePage.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "createUser",
-            "createUser.json"
+            "stockExchange",
+            "stockExchange.json"
           ]
         }
       ],
@@ -63,7 +47,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "loginUser",
+      "firstform": "stockExchange",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
@@ -108,7 +92,7 @@
       "useStrict": "",
       "version": "1.0.0",
       "viewportFit": "cover",
-      "voltAppId": "jKCoyb",
+      "voltAppId": "",
       "voltDomain": ""
     }
   ],
