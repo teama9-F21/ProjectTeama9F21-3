@@ -1,0 +1,92 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "#339BFF",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homePage",
+        "Elements",
+        "btnBitcoinExcahnge.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homePage",
+        "Elements",
+        "btnStock.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homePage",
+        "Elements",
+        "btnBankStatement.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homePage",
+        "Elements",
+        "headMain.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homePage",
+        "Elements",
+        "headBudgetMain.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homePage",
+        "Elements",
+        "btnShareWithFriends.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "center",
+  "height": 460,
+  "id": "homePage",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}

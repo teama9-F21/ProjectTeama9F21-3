@@ -1,0 +1,128 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "#339BFF",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createUser",
+        "Elements",
+        "inptUserID.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createUser",
+        "Elements",
+        "inptFirstName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createUser",
+        "Elements",
+        "inptLastName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createUser",
+        "Elements",
+        "inptPhone.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createUser",
+        "Elements",
+        "inptCreateEmail.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createUser",
+        "Elements",
+        "inptCreatePass.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createUser",
+        "Elements",
+        "btnNext.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createUser",
+        "Elements",
+        "headCreate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createUser",
+        "Elements",
+        "lblInsertUser.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "createUser",
+        "Elements",
+        "btnNewLogin.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 600,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "center",
+  "height": "600",
+  "id": "createUser",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
