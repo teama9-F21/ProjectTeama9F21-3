@@ -58,6 +58,14 @@
             "stockExchange",
             "stockExchange.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "bankStatement",
+            "bankStatement.json"
+          ]
         }
       ],
       "configxml": null,

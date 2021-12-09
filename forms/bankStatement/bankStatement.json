@@ -1,0 +1,83 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "#339BFF",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "bankStatement",
+        "Elements",
+        "headbank.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "bankStatement",
+        "Elements",
+        "Image3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "bankStatement",
+        "Elements",
+        "Image4.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "bankStatement",
+        "Elements",
+        "Image5.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "bankStatement",
+        "Elements",
+        "Image6.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "center",
+  "height": 460,
+  "id": "bankStatement",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
