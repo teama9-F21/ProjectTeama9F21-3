@@ -1,6 +1,6 @@
 
  
-btnTransactions.onclick=function(){
+
   query = "SELECT date, Description, withdraw, Deposit, Balance, category from transactions order by date"
 
  
@@ -30,4 +30,4 @@ if (req.status == 200) {
           //DataTable1.value = message
 
   }
-}
+
